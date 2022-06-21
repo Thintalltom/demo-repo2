@@ -1,4 +1,4 @@
 # demo 2
 
-some text
+UPDATE README some text
 git
